@@ -1,0 +1,32 @@
+Model was manually created. below are the helper functions
+
+#main function
+#m is a predefined value, currently defined as 6
+def naives_bayes(nc, n, p , m=6):
+    pav = (nc+m*p)/(n+m)
+    return pav
+
+
+#define N for naives_bayes
+def nb_n(df, column, category):
+    return df[df[column] == category].shape[0]
+
+
+#define P for naives_bayes
+def nb_p(df, cuisine):
+    #dfx = df[df['Cuisine_type'] == cuisine].count()/df['Cuisine_type'].count()
+    
+    x = df[df['Cuisine_type'] == cuisine].shape[0]
+    y = df['Cuisine_type'].count()
+    return x/y
+
+
+#definte NC for naives_bayes
+def nb_nc(df, cuisine, category, column):
+    #dfx = df[df['Cuisine_type'] == cuisine]
+    #res = dfx[dfx[column] == category].count()/dfx['Cuisine_type'].count()
+    
+    dfz = df[df['Cuisine_type'] == cuisine]
+    x = dfz[dfz[column] == category].shape[0]
+    y = dfz['Cuisine_type'].count()
+    return x/y

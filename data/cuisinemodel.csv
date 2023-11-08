@@ -1,0 +1,171 @@
+american|Protein Low,0.002641594188362353
+american|Protein Moderate,0.001946812175141427
+american|Protein High,0.002334640638269304
+american|Carbs Low,0.001959303608301359
+american|Carbs Moderate,0.0020409747610928364
+american|Carbs High,0.0031330863290936744
+american|Fat Low,0.0018973612279054423
+american|Fat Moderate,0.0025980266104565744
+american|Fat High,0.002439834345519506
+mexican|Protein Low,0.0005134272012828835
+mexican|Protein Moderate,0.0004845770026311855
+mexican|Protein High,0.0005632792924365705
+mexican|Carbs Low,0.00045644181310532426
+mexican|Carbs Moderate,0.0006177710831436552
+mexican|Carbs High,0.0004576455680556627
+mexican|Fat Low,0.00042482750266179095
+mexican|Fat Moderate,0.0005352981258561591
+mexican|Fat High,0.0006246264949924328
+chinese|Protein Low,0.00029154137165046185
+chinese|Protein Moderate,0.0004604418522924671
+chinese|Protein High,0.0007328016928894723
+chinese|Carbs Low,0.0004131353426578647
+chinese|Carbs Moderate,0.0005761287242697363
+chinese|Carbs High,0.0005225359772061185
+chinese|Fat Low,0.0003452210674422011
+chinese|Fat Moderate,0.0006784575265319121
+chinese|Fat High,0.0005418388940294117
+mediterranean|Protein Low,0.002109255959109885
+mediterranean|Protein Moderate,0.0017061175633721574
+mediterranean|Protein High,0.0020337972010425
+mediterranean|Carbs Low,0.0016256596510634067
+mediterranean|Carbs Moderate,0.0017814889976033046
+mediterranean|Carbs High,0.0026488938050716598
+mediterranean|Fat Low,0.0015702087659988067
+mediterranean|Fat Moderate,0.0022947355730922533
+mediterranean|Fat High,0.0020469528466174405
+italian|Protein Low,0.0007713016273481434
+italian|Protein Moderate,0.0007463199169945387
+italian|Protein High,0.0010425910521798458
+italian|Carbs Low,0.0007232359579979317
+italian|Carbs Moderate,0.0007832128203147652
+italian|Carbs High,0.0011599795851939434
+italian|Fat Low,0.0006344512633312009
+italian|Fat Moderate,0.000967687515726605
+italian|Fat High,0.0010195919679546138
+french|Protein Low,0.0008051271721125182
+french|Protein Moderate,0.000797155456695575
+french|Protein High,0.0007953934706262166
+french|Carbs Low,0.0007531249134301445
+french|Carbs Moderate,0.0007275625623070228
+french|Carbs High,0.0009915817179031769
+french|Fat Low,0.0006652590507106385
+french|Fat Moderate,0.000819299843477837
+french|Fat High,0.0009578247766501159
+south east asian|Protein Low,0.0003698375120098116
+south east asian|Protein Moderate,0.0004598883861842382
+south east asian|Protein High,0.0005887582086864149
+south east asian|Carbs Low,0.0002774995893768075
+south east asian|Carbs Moderate,0.0006545136441849222
+south east asian|Carbs High,0.0005196918881243912
+south east asian|Fat Low,0.0003382984144743869
+south east asian|Fat Moderate,0.0005748823308660817
+south east asian|Fat High,0.0005677091860520362
+nordic|Protein Low,0.00029154137165046185
+nordic|Protein Moderate,0.0002738398743115005
+nordic|Protein High,0.0009716932361288416
+nordic|Carbs Low,0.0006067162013825542
+nordic|Carbs Moderate,0.00045557901760735574
+nordic|Carbs High,0.0003919706292494662
+nordic|Fat Low,0.0003082497571789654
+nordic|Fat Moderate,0.00048212712030645333
+nordic|Fat High,0.0007716220771830218
+eastern europe|Protein Low,0.0002908866097046748
+eastern europe|Protein Moderate,0.0005420993487767564
+eastern europe|Protein High,0.0002544458695878254
+eastern europe|Carbs Low,0.00038427937784944006
+eastern europe|Carbs Moderate,0.00033722650153258265
+eastern europe|Carbs High,0.0004477663783657474
+eastern europe|Fat Low,0.0003102713219883116
+eastern europe|Fat Moderate,0.00044935846632789954
+eastern europe|Fat High,0.0004132265851169359
+british|Protein Low,0.000550955921261709
+british|Protein Moderate,0.0006421328093116994
+british|Protein High,0.00037727782207277473
+british|Carbs Low,0.0005813416096260326
+british|Carbs Moderate,0.0004713396347069239
+british|Carbs High,0.0005512497626062294
+british|Fat Low,0.0005450185932867965
+british|Fat Moderate,0.0005547606837796578
+british|Fat High,0.0004966714760184827
+caribbean|Protein Low,0.0005289327816791634
+caribbean|Protein Moderate,0.0002755626559799262
+caribbean|Protein High,0.0003527807628754001
+caribbean|Carbs Low,0.00028586865023741236
+caribbean|Carbs Moderate,0.00048154389483975424
+caribbean|Carbs High,0.000331877618943865
+caribbean|Fat Low,0.0005280871549461003
+caribbean|Fat Moderate,0.0005185104608578992
+caribbean|Fat High,2.3817094243051066e-05
+south american|Protein Low,0.0005693557165427558
+south american|Protein Moderate,0.0004191372271813556
+south american|Protein High,0.0004594719022744923
+south american|Carbs Low,0.00034107899534420514
+south american|Carbs Moderate,0.00041886058259522517
+south american|Carbs High,0.0007858597431899772
+south american|Fat Low,0.00044505322190860954
+south american|Fat Moderate,0.0006013483616579793
+south american|Fat High,0.00039404755659490007
+middle eastern|Protein Low,0.0004251622912751901
+middle eastern|Protein Moderate,0.000576620186427798
+middle eastern|Protein High,0.0002591923970230207
+middle eastern|Carbs Low,0.0003698595376474873
+middle eastern|Carbs Moderate,0.00047866577018690473
+middle eastern|Carbs High,0.00046965188921024886
+middle eastern|Fat Low,0.0003967978844049146
+middle eastern|Fat Moderate,0.0005430951803191551
+middle eastern|Fat High,0.00038327200889586786
+asian|Protein Low,0.00023260360688827947
+asian|Protein Moderate,0.00039927250736744243
+asian|Protein High,0.0007309367814099676
+asian|Carbs Low,0.0002895391550160912
+asian|Carbs Moderate,0.0005962592154187343
+asian|Carbs High,0.0005182469535781838
+asian|Fat Low,0.0003615242101046518
+asian|Fat Moderate,0.0007206311220234857
+asian|Fat High,0.000345586037466671
+japanese|Protein Low,0.00030409671913722135
+japanese|Protein Moderate,0.0002506961274104963
+japanese|Protein High,0.0006506164708057452
+japanese|Carbs Low,0.0003045957154347535
+japanese|Carbs Moderate,0.0005009805808070501
+japanese|Carbs High,0.00036345493758742977
+japanese|Fat Low,0.00041841920785138455
+japanese|Fat Moderate,0.0002365283108783598
+japanese|Fat High,0.0005006353209889334
+central europe|Protein Low,0.0003029518429864006
+central europe|Protein Moderate,0.00030236976663372187
+central europe|Protein High,0.0005091998782850518
+central europe|Carbs Low,0.00021473701426284495
+central europe|Carbs Moderate,0.0003255644899522052
+central europe|Carbs High,0.0006957535874465422
+central europe|Fat Low,0.00020505924066086299
+central europe|Fat Moderate,0.00043381869227621426
+central europe|Fat High,0.0005247699764885584
+world|Protein Low,0.0018933214108051795
+world|Protein Moderate,0.00044927929065507956
+world|Protein High,0.0005662056135242255
+world|Carbs Low,0.0012220747688779184
+world|Carbs Moderate,0.0005818233110838813
+world|Carbs High,0.000816544349667378
+world|Fat Low,0.0012815338801028255
+world|Fat Moderate,0.0006395674149755006
+world|Fat High,0.0005881412694904943
+indian|Protein Low,0.00024400350519600478
+indian|Protein Moderate,0.0005266795097387959
+indian|Protein High,0.0004261265683876857
+indian|Carbs Low,0.00011550370534618144
+indian|Carbs Moderate,0.0005670809878426037
+indian|Carbs High,0.0006791160754730512
+indian|Fat Low,0.00038460145090565655
+indian|Fat Moderate,0.0003186489152318693
+indian|Fat High,0.0005487535342935233
+kosher|Protein Low,2.6420218865093076e-06
+kosher|Protein Moderate,1.8051926366192351e-06
+kosher|Protein High,0.0011012121422216059
+kosher|Carbs Low,0.0008923446566533049
+kosher|Carbs Moderate,1.943668596729583e-06
+kosher|Carbs High,3.15773186435647e-06
+kosher|Fat Low,1.7883073313447355e-06
+kosher|Fat Moderate,2.589962341947548e-06
+kosher|Fat High,0.0011348845406813832
